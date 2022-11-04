@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_test",
+    name="packageDIO",
     version="0.0.1",
     author="alisson_lima",
     author_email="infoalisson21@gmail.com",
