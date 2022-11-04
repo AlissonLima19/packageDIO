@@ -1,7 +1,7 @@
 # packageDIO
 
 Description. 
-The package package_name is used to:
+The package packageDIO is used to:
 	-Test building packages in python
 
 ## Installation
