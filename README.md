@@ -1,27 +1,26 @@
-# package_name
+# packageDIO
 
 Description. 
 The package package_name is used to:
-	- 
-	-
+	-Test building packages in python
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packageDIO
 
 ```bash
-pip install package_name
+pip install packageDIO
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from packageDIO import test1
+test1.my_function()
 ```
 
 ## Author
-My_name
+Alisson Lima
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
